@@ -1,0 +1,10 @@
+# src/gcrbot/config/tasks.yaml
+answer_question:
+  description: >
+    Réponds à la question suivante en utilisant l'outil de recherche si nécessaire :
+    {{question}}
+  expected_output: >
+    Une réponse claire, concise et en français.
+    Si des données sont trouvées, liste-les avec des puces.
+    Si rien n'est trouvé, dis-le poliment.
+  agent: info_agent

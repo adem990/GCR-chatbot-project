@@ -1,0 +1,40 @@
+student,title,specialty,supervisor,year
+"DHAHRI RANIA INKO","Intelligent Marketing Print Management Platform","Computer Science","Not specified",2025
+"KARDI AICHA","Automation of Deployment and Configuration of an SD-WAN Solution","Networking","Not specified",2025
+"HACHAICHI JASSER LAROUSSI","Implementation of a Network Security Architecture Integrating Open Source Solutions and Artificial Intelligence","Network Security","Not specified",2025
+"BOUZAKHER FERDAOUS","Process Optimization and Automation of Management and Control Tools for Fiber Optic Connection Activities","Automation","Not specified",2025
+"BALTI MALAK","Deployment and Validation of AdGuard Home on ARM x64 Architecture in an LXC Container","Embedded Systems","Not specified",2025
+"BAAZAOUI WAFA","Automation of Security Incident Management in a Microsoft 365 Environment with a SIEM/SOAR Solution","Cybersecurity","Not specified",2025
+"OUESLATI DHIA EDDINE","Development of a Hand Gesture-Based Cursor Control System Using Artificial Intelligence","AI & Computer Vision","Not specified",2025
+"ZOUABI AMIRA","Design and Development of an Automated Network Data Analysis Application for 4G/5G Evolution","Mobile Networks","Not specified",2025
+"KHEDHER NADA","Use of Incremental Learning for Energy Disaggregation","Machine Learning","Not specified",2025
+"TOUKEBRI OUSSAMA","Wazuh as SIEM and XDR: Evaluation and Implementation of Wazuh as an Integrated Detection and Response Solution","Cybersecurity","Not specified",2025
+"GRAYAA JAWAHER","Development of an OCR for Purchase Invoices within WIND ERP","Image Processing","Not specified",2025
+"BEN ALI HADDED HANINE","Implementation of a Smart Validation and Reporting System","Automation","Not specified",2025
+"SLIMEN WEJDEN","Study and Implementation of an Optimized SDN Routing Solution","SDN Networks","Not specified",2025
+"KASRANI MOHAMED AZIZ","Design and Implementation of an IaaC Platform for a Cisco Firepower SD-WAN Network","IaaC & Networking","Not specified",2025
+"BOUAZIZA AMENI","Design and Implementation of an IaaC Platform for a FortiMail Email Security Architecture","IaaC & Security","Not specified",2025
+"HAOUACH AYOUB","Design and Implementation of an IaaC Platform for a Palo Alto SD-WAN Architecture","IaaC & Networking","Not specified",2025
+"THABET OUMAIMA","Design and Implementation of an IaaC Platform for a Network Security Architecture","IaaC & Security","Not specified",2025
+"TAIEB FATMA","Design and Implementation of an IaaC Platform for a Fortinet SD-WAN Network Architecture","IaaC & Networking","Not specified",2025
+"MATOUI HASSEN","Design and Implementation of an Orchestrator for Network and Security Infrastructure Resilience","Orchestration","Not specified",2025
+"BELHADJ GHASSEN","Development of a Web Platform for Automating Network Configurations with Cisco Meraki","Web Automation","Not specified",2025
+"ALYA MADIHA","Development of a Secure Mobile Application for Vehicle Monitoring and Supervision Using IoT and IOTA Distributed Blockchain","IoT & Blockchain","Not specified",2025
+"HAFYEN TAKWA","Lessons Learned Smart Application","Mobile Application","Not specified",2025
+"TAHRI EYA","Design and Implementation of a Testing and Quality Strategy for Mobile and Web Applications","Software Quality","Not specified",2025
+"ATITALLAH SIRINE","Development of a Multi-Instance Managed Vulnerability Operation Center (VOC) Solution","Cybersecurity","Not specified",2025
+"BEN SAAD OUMAIA","Design and Development of an AI Agent for HR Process Automation","AI & HR","Not specified",2025
+"FOURATI KHOLOUD","Development of Generative AI Solutions for a Management Website","Generative AI","Not specified",2025
+"CHAMMEM HACHEM","Internal Company Website","Web Development","Not specified",2025
+"BOUKADIDA HADIL","Workspace Hub: Co-Working Space Booking Platform with Spring Boot and Angular","Web Development","Not specified",2025
+"MANNAI HOUSSEM","E-Trade: International Domiciliation and Transaction Management Platform","FinTech","Not specified",2025
+"BACCAR YASMINE","Ethernet Traffic Generator","Network Testing","Not specified",2025
+"KHLIFI MARWA","Quality of Service Testing Platform","QoS","Not specified",2025
+"TABBABI YOUSSER","Study and Optimization of the FTTO Process","Telecommunications","Not specified",2025
+"ALOUI IBTISSEM","Study and Implementation of a Blockchain-Based Solution for Issuing Internship Certificates","Blockchain","Not specified",2025
+"BOUALLEGUI EYA","Feasibility Analysis of the FTTO Process on FTTA","Telecommunications","Not specified",2025
+"AZAZA SAFA","Quality of Service Monitoring and Network Optimization for a French Operator","QoS & Networking","Not specified",2025
+"BAKIR AHMED","Development of a Management Interface Generator Component with REST Integration","Software Development","Not specified",2025
+"SFAXI ONS","AI-Based Virtual Assistant for File Management","AI & Productivity","Not specified",2025
+"TRIKI FIRAS","Process Improvement and Management of Prerequisites for Telecom Pole Infrastructure","Automation","Not specified",2025
+"BOUGHATTAS YOUSSEF","Creation of an Intelligent SOC Based on SIEM, SOAR, Vulnerability Testing and Pentest Modules, and Threat Intelligence Integration","Cybersecurity","Not specified",2025

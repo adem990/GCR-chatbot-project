@@ -1,0 +1,20 @@
+[project]
+name = "gcrbot"
+version = "0.1.0"
+requires-python = ">=3.10, <3.13"
+dependencies = [
+    "crewai[tools]",
+    "pandas",
+    "python-dotenv",
+    "google-generativeai"
+]
+
+[project.scripts]
+run_crew = "gcrbot.main:run"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "crew"
