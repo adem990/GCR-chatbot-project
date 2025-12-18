@@ -1,4 +1,4 @@
-# 🎓 PFE Chatbot - AI-Powered Project Assistant
+# 🎓 PFE Chatbot - AI-Powered Project Assistant (Part of project gcrbo
 
 ## 📋 Table of Contents
 - [Overview](#overview)
